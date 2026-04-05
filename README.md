@@ -25,5 +25,5 @@
 * **GitHub Repository:** [github.com/Harsh-jain12/CS432_Track1_Assignment3](https://github.com/Harsh-jain12/CS432_Track1_Assignment3)  
   *Complete source code for Module A and Module B.*
 * **Module A Demonstration Video:** [View on Google Drive](https://drive.google.com/file/d/1q1GWfX3K4DaJssqpmu1RCfj1bmTj8N1x/view?usp=sharing)
-* **Module B Demonstration Video:** [View on Google Drive]([https://drive.google.com/drive/folders/1C3sdNzcmHr5XzgjKLaBOAu7HAiey275W])  
+* **Module B Demonstration Video:** [View on Google Drive](https://drive.google.com/drive/folders/1C3sdNzcmHr5XzgjKLaBOAu7HAiey275W)  
   *Walkthroughs of the internal transaction engine operations and real-time stress test execution.*
