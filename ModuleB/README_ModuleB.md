@@ -558,8 +558,6 @@ Also update `tests/00_setup.js` to set the password for that user.
 module_b/
 ├── README.md                             ← This file
 ├── run_all.js                            ← Master test runner
-├── ModuleB_Report.tex                    ← LaTeX report source
-├── generate_report.py                    ← PDF report generator (optional)
 ├── tests/
 │   ├── config.js                         ← Shared HTTP helpers & credentials
 │   ├── 00_setup.js                       ← One-time password provisioning
@@ -572,7 +570,6 @@ module_b/
 │   └── 07_durability.js                  ← Persistence verification
 └── results/
     ├── stress_test_results.json          ← Latency metrics (generated)
-    └── ModuleB_Report.pdf                ← Submission report
 ```
 
 ---
