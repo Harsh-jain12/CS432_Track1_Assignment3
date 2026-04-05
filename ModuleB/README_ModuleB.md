@@ -403,19 +403,13 @@ Each test produces structured console output:
     Member 2: REJECTED   -- This slot is already booked ... (26ms)
     ...
 
-  ✅ At least one booking succeeded — 1 bookings accepted
-  ✅ Exactly one booking for contested slot
-  ✅ Database appointment count matches accepted bookings — DB has 1, expected 1
-  ✅ No duplicate appointment IDs — 1 appointments, 1 unique IDs
+  At least one booking succeeded — 1 bookings accepted - SUCCESSFUL
+  Exactly one booking for contested slot - SUCCESSFUL
+  Database appointment count matches accepted bookings — DB has 1, expected 1 - SUCCESSFUL
+  No duplicate appointment IDs — 1 appointments, 1 unique IDs - SUCCESSFUL
 
 ━━━ Race Condition — Appointment Booking: 4/4 passed, 0 failed (0.39s) ━━━
 ```
-
-### Output Symbols
-
-- ✅ = Check passed
-- ❌ = Check failed
-- ⚠️ = Warning (debug info, not a failure)
 
 ### Final Summary
 
