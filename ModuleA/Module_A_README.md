@@ -89,8 +89,8 @@ Optional:
 
 ```bash
 # Clone repository
-git clone https://github.com/Shreyas-Dharmatti/dispensary-management.git
-cd dispensary-management/module_a
+git clone https://github.com/Harsh-jain12/CS432_Track1_Assignment3.git
+cd CS432_Track1_Assignment3/ModuleA
 
 # Install dependencies
 pip install -r requirements.txt
