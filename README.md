@@ -1,5 +1,3 @@
-# CS432_Track1_Assignment3
-
 # CS 432 Databases · Assignment 3: Track 1
 
 ## Full System Report: Dispensary Management System
